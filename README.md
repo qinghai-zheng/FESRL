@@ -1,4 +1,4 @@
-# CMRL
+# FESRL
 Source codes of the work "Large-Scale Multi-View Clustering via Fast Essential Subspace Representation Learning" published in IEEE SPL 2022.
 
 The demo file (including corresponding datasets) of UCI is included in this repository. We run the demo on Matlab 2018b on a PC with Windows 10 x64 operation system.

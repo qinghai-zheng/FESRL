@@ -5,7 +5,7 @@ The demo file (including corresponding datasets) of UCI is included in this repo
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
 
-@article\{CMRL,<br/>
+@article\{FESRL,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Large-Scale Multi-View Clustering via Fast Essential Subspace Representation Learning\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;author=\{Zheng, Qinghai\},<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;journal=\{IEEE Signal Processing Letters\},<br/>
